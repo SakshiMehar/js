@@ -1,0 +1,11 @@
+let myDate = new Date();
+console.log(" getDate-->",myDate.getDate());
+console.log("toString -->",myDate.toString());
+console.log("toDateString -->",myDate.toDateString());
+console.log("toJSON -->",myDate.toJSON());
+console.log("toLocaleDateString -->",myDate.toLocaleDateString());
+console.log("toLocaleTimeString -->",myDate.toLocaleTimeString());
+console.log("toLocaleString -->",myDate.toLocaleString());
+console.log("toTimeString -->",myDate.toTimeString());
+console.log("toUTCString -->",myDate.toUTCString());
+console.log("getTimezoneOffset -->",myDate.getTimezoneOffset());
